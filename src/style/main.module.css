@@ -1,0 +1,1012 @@
+#main{
+    height: 600px;
+    width: 100%;
+}
+
+#main>section{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>img#overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+#main>section>div{
+    position: absolute;
+    top: 12%;
+    left: 23%;
+    height: 6%;
+    width: 54%;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+}
+#main>section>div>img{
+    height: 100%;
+    width: 20%;
+    border-radius: 50px;
+}
+
+#main>section>section{
+    position: absolute;
+    top: 22%;
+    left: 10%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    height: 46%;
+    width: 80%;
+}
+
+#main>section>section>div{
+    height: 12%;
+    width: 30%;
+    text-align: center;
+}
+
+#main>section>section>div>#d1{
+    height: 200%;
+    width: 70%;
+    border-radius: 50px;
+    position: relative;
+    left:8%;
+    bottom: 50%;
+}
+
+#main>section>section>div>#d2{
+    height: 100%;
+    width: 70%;
+    border-radius: 50px;
+}
+
+#main>section>section>article{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+#main>section>section>article>img{
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>article{
+    position: absolute;
+    top: 60%;
+    left: 12%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 78%;
+    width: 78%;
+}
+
+#main>section>article>img{
+    height: 100%;
+    width: 95%;
+}
+
+#main>section>#section2{
+    height: 15%;
+    width: 100%;
+    position: absolute;
+    top: 114%;
+    left:0;
+    z-index: 3;
+    background-color: #ffffff;
+}
+
+#main>section>#div2{
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    top: 140%;
+    left: 0;
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+}
+
+#main>section>#div2>section{
+    height: 100%;
+    width: 45%;
+}
+
+#main>section>#div2>section>#img13{
+    width: 100%;
+    height: 10%;
+}
+
+#main>section>#div2>section>#img13>img{
+    height: 100%;
+    width: 90%;
+}
+
+#main>section>#div2>section>#img9{
+    width: 100%;
+    height: 90%;
+}
+
+#main>section>#div2>section>#img9>img{
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>#div2>img{
+    height: 40%;
+    width: 15%;
+    position: absolute;
+    top: 62%;
+}
+
+#main>section>#div2>article{
+    height: 100%;
+    width: 45%;
+    position: relative;
+}
+
+#main>section>#div2>article>#img11{
+    height: 100%;
+    width: 80%;
+    position: absolute;
+    right: 0;
+}
+
+#main>section>#div2>article>#img12{
+    height: 65%;
+    width: 50%;
+    position: absolute;
+    right: 0;
+    top: 18%;
+    right: 15%;
+}
+
+#main>section>#div2>#section3{
+    height: 15%;
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    z-index: 1;
+}
+
+#main>section>#article2{
+    position: absolute;
+    top: 227%;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>#article2>img{
+    height: 100%;
+    width: 85%;
+}
+
+#main>section>#div4{
+    height: 60%;
+    width: 100%;
+    position: absolute;
+    top: 315%;
+    z-index: 1;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#main>section>#div4>section{
+    height: 100%;
+    width: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#main>section>#div4>section>div{
+    height: 100%;
+    width: 80%;
+}
+
+#main>section>#div4>section>#img15{
+    position:absolute;
+    top: 40%;
+    opacity:0.5;
+    left: 6%;
+}
+
+#main>section>#div4>section>div>#img16{
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>#div4>section>#img17{
+    position:absolute;
+    top: 28%;
+    right: 0%;
+    opacity:0.5;
+}
+
+#main>section>#div4>section>#img18{
+    position:absolute;
+    top: 60%;
+    opacity: 0.5;
+    right: 5%;
+}
+
+#main>section>#div4>article{
+    height: 100%;
+    width: 40%;
+}
+
+#main>section>#div4>article>#img19{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main>section>#div4>article>#img19>img{
+    height: 80%;
+    width: 80%;
+}
+
+#main>section>#div4>article>#img20{
+    height: 40%;
+    width: 100%;
+}
+
+#main>section>#div4>article>#img20>img{
+    height: 100%;
+    width: 40%;
+}
+#main>section>#div4>#section5{
+    height: 15%;
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    z-index: 3;
+    left: 0;
+}
+
+#main>section>#article4{
+    height: 85%;
+    width: 100%;
+    left: 0;
+    top: 390%;
+    position: absolute;
+    background: url("../assets/img00.png");
+    border-bottom: 2px solid #D4D4D4;
+}
+
+#main>section>#article4>#div5{
+    height: 20%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+}
+#main>section>#article4>#div5>div{
+    height: 40%;
+    width: 30%;
+    background-color: purple;
+}
+#main>section>#article4>#div5>div>#img21{
+    height: 100%;
+    width: 100%;
+    border-radius: 0;
+}
+
+#main>section>#article4>#section6{
+    height: 70%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    top: 15%;
+}
+
+#main>section>#article4>#section6>img{
+    height: 100%;
+    width: 100%;
+}
+
+#main>section>#footer{
+    height: 95%;
+    width: 100%;
+    position: absolute;
+    top: 490%;
+    left: 0;
+    display: block;
+}
+
+#main>section>#footer>section{
+    height: 55%;
+    width: 100%;
+    position: relative;
+}
+
+#main>section>#footer>section>#img23{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#main>section>#footer>section>#img28{
+    position: absolute;
+    right: 24%;
+    top: 15%;
+    z-index: 1;
+}
+
+#main>section>#footer>article{
+    height: 45%;
+    width: 100%;
+    position: relative;
+}
+
+#main>section>#footer>article>#img24{
+    height: 100%;
+    width: 100%;
+    position:absolute;
+}
+
+#main>section>#footer>article>#img25{
+    height: 70%;
+    width: 78%;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+
+#main>section>#footer>article>section{
+    height: 1%;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    bottom: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer>article>section>img{
+    width: 90%;
+}
+
+#main>section>#footer>article>div{
+    height: 20%;
+    width: 70%;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+#main>section>#footer>article>div>section{
+    height: 50%;
+    width: 30%;
+    display: flex;
+    align-items: flex-end;
+}
+
+#footer>article>div>section>img{
+    height: 70%;
+    width: 70%;
+}
+
+#main>section>#footer>article>div>article{
+    height: 60%;
+    width: 40%;
+}
+
+#footer>article>div>article>img{
+    height: 100%;
+    width: 100%;
+}
+
+#footer>article>#img26{
+    left: 7%;
+    position: absolute;
+    bottom: 11%;
+}
+
+#footer>article>#img27{
+    left: 38%;
+    bottom: 10%;
+    position: absolute;
+}
+
+#footer>article>#img29{
+    left: 4%;
+    bottom: 24%;
+    position: absolute;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #main>section>img{
+        height: 60%;
+        width: 100%;
+    }
+    #main>section>img#overlay{
+        height: 60%;
+    }
+    #main>section>div{
+        width: 70%;
+        left: 15%;
+    }
+    #main>section>div>img{
+        width: 35%;
+    }
+    #main>section>section{
+        width: 90%;
+        left: 5%;
+        top: 10%;
+    }
+    #main>section>section>div{
+        width: 25%;
+    }
+    #main>section>section>div>#d1{
+        width: 95%;
+        left:5%;
+    }
+    #main>section>section>div>#d2{
+        width: 90%;
+    }
+    #main>section>section>article{
+        width: 50%;
+    }
+    #main>section>section>article>img{
+        height: 60%;
+        width: 80%;
+    }
+    #main>section>article{
+        top: 45%;
+        left: 11%;
+        z-index: 1;
+        height: 50%;
+    }    
+    #main>section>#section2{
+        top: 85%;
+    }
+    #main>section>#div2{
+        height: 45%;
+        top: 95%;
+    }
+    #main>section>#article2{
+        top: 148%;
+        height: 50%;
+    }
+    #main>section>#div4{
+        height: 45%;
+        top: 205%;
+    }
+    #main>section>#div4>section>div{
+        width: 80%;
+    }
+    #main>section>#div4>section>#img15{
+        height: 10%;
+        top: 42%;
+        left: 6%;
+    }
+    #main>section>#div4>section>#img17{
+        height: 10%;
+        width: 9%;
+        top: 30%;
+        right: 0%;
+    }
+    #main>section>#div4>section>#img18{
+        height: 10%;
+        top: 67%;
+        right: 5%;
+    }
+    #main>section>#div4>article>#img19>img{
+        height: 80%;
+        width: 85%;
+    }
+    #main>section>#article4{
+        height: 60%;
+        top: 260%;
+    }        
+    #main>section>#footer{
+        height: 60%;
+        top: 330%;
+    }
+    #footer>section>#img28{
+        right: 20%;
+        height: 10%;
+    }
+    #footer>article>section{
+        bottom: 25%;
+    }
+    #footer>article>div>section{
+        height: 40%;
+        width: 40%;
+    }
+    #footer>article>div>section>img{
+        width: 70%;
+    }
+    #footer>article>div>article{
+        width: 50%;
+    }
+    
+}
+
+@media only screen and (min-width: 601px) {
+    #main>section>img{
+        height: 60%;
+        width: 100%;
+    }
+    #main>section>img#overlay{
+        height: 60%;
+    }
+    #main>section>div{
+        width: 70%;
+        left: 15%;
+    }
+    #main>section>div>img{
+        width: 25%;
+    }
+    #main>section>section{
+        width: 80%;
+        left: 10%;
+        top: 10%;
+    }
+    #main>section>section>div{
+        width: 25%;
+    }
+    #main>section>section>div>#d1{
+        width: 95%;
+        left:5%;
+    }
+    #main>section>section>div>#d2{
+        width: 90%;
+    }
+    #main>section>section>article{
+        width: 50%;
+    }
+    #main>section>section>article>img{
+        height: 60%;
+        width: 80%;
+    }
+    #main>section>article{
+        top: 45%;
+        left: 11%;
+        height: 50%;
+    }
+    #main>section>#section2{
+        top: 85%;
+    }
+    #main>section>#div2{
+        height: 45%;
+        top: 95%;
+    }
+    #main>section>#article2{
+        top: 148%;
+        height: 50%;
+    }
+    #main>section>#div4{
+        height: 45%;
+        top: 205%;
+    }
+    #main>section>#div4>section>div{
+        width: 80%;
+    }
+    #main>section>#div4>section>#img15{
+        height: 10%;
+        top: 42%;
+        left: 6%;
+    }
+    #main>section>#div4>section>#img17{
+        height: 10%;
+        width: 9%;
+        top: 30%;
+        right: 0%;
+    }
+    #main>section>#div4>section>#img18{
+        height: 10%;
+        top: 67%;
+        right: 5%;
+    }
+    #main>section>#div4>article>#img19>img{
+        height: 70%;
+        width: 85%;
+    }
+    #main>section>#article4{
+        height: 60%;
+        top: 260%;
+    }
+    #main>section>#footer{
+        height: 60%;
+        top: 330%;
+    }
+    #footer>section>#img28{
+        right: 20%;
+        height: 10%;
+    }
+    #footer>article>section{
+        bottom: 25%;
+    }
+    #footer>article>div>section{
+        height: 40%;
+        width: 40%;
+    }
+    #footer>article>div>section>img{
+        width: 70%;
+    }
+    #footer>article>div>article{
+        width: 50%;
+    }    
+}
+
+@media only screen and (min-width: 768px) {
+    #main>section>img{
+        height: 70%;
+        width: 100%;
+    }
+    #main>section>img#overlay{
+        height: 70%;
+    }
+    #main>section>div{
+        width: 55%;
+        left: 22%;
+    }
+    #main>section>div>img{
+        width: 25%;
+    }
+    #main>section>section{
+        top: 15%;
+        width: 80%;
+        left: 10%;
+    }
+    #main>section>section>div{
+        width: 30%;
+    }
+    #main>section>section>div>#d1{
+        width: 70%;
+        left:5%;
+    }
+    #main>section>section>div>#d2{
+        width: 70%;
+    }
+    #main>section>section>article{
+        width: 50%;
+    }
+    #main>section>section>article>img{
+        height: 80%;
+        width: 80%;
+    }
+    #main>section>article{
+        top: 53%;
+        left: 11%;
+        z-index: 1;
+        height: 54%;
+    }
+    #main>section>#section2{
+        top: 97%;
+    }
+    #main>section>#div2{
+        height: 45%;
+        top: 110%;
+    }
+    #main>section>#article2{
+        top: 162%;
+        height: 55%;
+    }
+    #main>section>#div4{
+        height: 45%;
+        top: 225%;
+    }
+    #main>section>#div4>section>div{
+        width: 80%;
+    }
+    #main>section>#div4>section>#img15{
+        height: 15%;
+        top: 42%;
+        left: 6%;
+    }
+    #main>section>#div4>section>#img17{
+        height: 15%;
+        top: 30%;
+        right: 1%;
+    }
+    #main>section>#div4>section>#img18{
+        height: 15%;
+        top: 67%;
+        right: 7%;
+    }
+    #main>section>#div4>article>#img19>img{
+        height: 70%;
+        width: 85%;
+    }
+    #main>section>#article4{
+        height: 60%;
+        top: 280%;
+    }
+    #main>section>#footer{
+        height: 60%;
+        top: 350%;
+
+    }
+    #footer>section>#img28{
+        right: 20%;
+        height: 10%;
+    }
+    #footer>article>section{
+        bottom: 25%;
+    }
+    #footer>article>div>section{
+        height: 40%;
+        width: 40%;
+    }
+    #footer>article>div>section>img{
+        width: 70%;
+    }
+    #footer>article>div>article{
+        width: 50%;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+    #main>section>img{
+        height: 73%;
+        width: 100%;
+    }
+    #main>section>img#overlay{
+        height: 72%;
+    }
+    #main>section>div{
+        width: 55%;
+        left: 20%;
+    }
+    #main>section>div>img{
+        width: 25%;
+    }
+    #main>section>section{
+        width: 90%;
+        left: 5%;
+    }
+    #main>section>section>div{
+        width: 25%;
+    }
+    #main>section>section>div>#d1{
+        width: 70%;
+        left:5%;
+    }
+    #main>section>section>div>#d2{
+        width: 70%;
+    }
+    #main>section>section>article{
+        width: 50%;
+    }
+    #main>section>section>article>img{
+        height: 80%;
+        width: 80%;
+    }
+    #main>section>article{
+        height: 65%;
+    }
+    #main>section>#section2{
+        top: 106%;
+    }
+    #main>section>#div2{
+        height: 55%;
+        top: 115%;
+    }
+    #main>section>#article2{
+        top: 178%;
+        height: 60%;
+    }
+    #main>section>#div4{
+        height: 45%;
+        top: 248%;
+    }
+    #main>section>#div4>section>div{
+        width: 80%;
+    }
+    #main>section>#div4>section>#img15{
+        height: 15%;
+        top: 42%;
+        left: 6%;
+    }
+    #main>section>#div4>section>#img17{
+        height: 15%;
+        top: 30%;
+        right: 1%;
+    }
+    #main>section>#div4>section>#img18{
+        height: 15%;
+        top: 67%;
+        right: 7%;
+    }
+    #main>section>#div4>article>#img19>img{
+        height: 70%;
+        width: 85%;
+    }
+    #main>section>#article4{
+        height: 70%;
+        top: 305%;
+    }
+    #main>section>#footer{
+        height: 70%;
+        top: 385%;
+
+    }
+    #footer>section>#img28{
+        right: 20%;
+        height: 10%;
+    }
+    #footer>article>section{
+        bottom: 25%;
+    }
+    #footer>article>div>section{
+        height: 40%;
+        width: 40%;
+    }
+    #footer>article>div>section>img{
+        width: 70%;
+    }
+    #footer>article>div>article{
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    #main>section>img{
+        height: 73%;
+        width: 100%;
+    }
+    #main>section>img#overlay{
+        height: 72%;
+    }
+    #main>section>div{
+        width: 60%;
+        left: 20%;
+    }
+    #main>section>div>img{
+        width: 20%;
+    }
+    #main>section>section{
+        width: 80%;
+        left: 10%;
+    }
+    #main>section>section>div{
+        width: 25%;
+    }
+    #main>section>section>div>#d1{
+        width: 70%;
+        left:2%;
+    }
+    #main>section>section>div>#d2{
+        width: 70%;
+    }
+    #main>section>section>article{
+        width: 50%;
+    }
+    #main>section>section>article>img{
+        height: 80%;
+        width: 80%;
+    }
+    #main>section>article{
+        height: 85%;
+    }
+    #main>section>#section2{
+        top: 123%;
+    }
+    #main>section>#div2{
+        height: 80%;
+        top: 135%;
+    }
+    #main>section>#article2{
+        top: 227%;
+        height: 75%;
+    }
+    #main>section>#div4{
+        height: 60%;
+        top: 315%;
+    }
+    #main>section>#div4>section>div{
+        width: 80%;
+    }
+    #main>section>#div4>section>#img15{
+        height: 15%;
+        top: 42%;
+        left: 6%;
+    }
+    #main>section>#div4>section>#img17{
+        height: 15%;
+        top: 30%;
+        right: 1%;
+    }
+    #main>section>#div4>section>#img18{
+        height: 15%;
+        top: 67%;
+        right: 7%;
+    }
+    #main>section>#div4>article>#img19>img{
+        height: 70%;
+        width: 85%;
+    }
+    #main>section>#article4{
+        height: 80%;
+        top: 390%;
+    }
+    #main>section>#footer{
+        height: 90%;
+        top: 485%;
+
+    }
+    #footer>section>#img28{
+        right: 20%;
+        height: 10%;
+    }
+    #footer>article>section{
+        bottom: 25%;
+    }
+    #footer>article>div>section{
+        height: 40%;
+        width: 40%;
+    }
+    #footer>article>div>section>img{
+        width: 70%;
+    }
+    #footer>article>div>article{
+        width: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
